@@ -1,0 +1,51 @@
+[submodule "INC2022-projekt"]
+	path = INC2022-projekt
+	url = git@github.com:nickonegen/VUT-FIT-INC2022-projekt.git
+[submodule "IOS2022-projekt1"]
+	path = IOS2022-projekt1
+	url = git@github.com:nickonegen/VUT-FIT-IOS2022-projekt1.git
+[submodule "IOS2022-projekt2"]
+	path = IOS2022-projekt2
+	url = git@github.com:nickonegen/VUT-FIT-IOS2022-projekt2.git
+[submodule "ISU2022-cvicenia"]
+	path = ISU2022-cvicenia
+	url = git@github.com:nickonegen/VUT-FIT-ISU2022-cvicenia.git
+[submodule "IZP2021-projekt2"]
+	path = IZP2021-projekt2
+	url = git@github.com:mightydendas/izp-projekt.git
+[submodule "IAL2022-ulohy"]
+	path = IAL2022-ulohy
+	url = git@github.com:nickonegen/VUT-FIT-IAL2022-ulohy.git
+[submodule "IFJ2022-projekt"]
+	path = IFJ2022-projekt
+	url = git@github.com:nickonegen/VUT-FIT-IFJ2022-projekt.git
+[submodule "INP2022-projekt1"]
+	path = INP2022-projekt1
+	url = git@github.com:nickonegen/VUT-FIT-INP2022-projekt1.git
+[submodule "INP2022-projekt2"]
+	path = INP2022-projekt2
+	url = git@github.com:nickonegen/VUT-FIT-INP2022-projekt2.git
+[submodule "ISS2022-projekt"]
+	path = ISS2022-projekt
+	url = git@github.com:nickonegen/VUT-FIT-ISS2022-projekt.git
+[submodule "IDS2023-projekt"]
+	path = IDS2023-projekt
+	url = git@github.com:nickonegen/VUT-FIT-IDS2023-projekt.git
+[submodule "IPK2023-projekt1"]
+	path = IPK2023-projekt1
+	url = git@github.com:nickonegen/VUT-FIT-IPK2023-projekt1.git
+[submodule "IPK2023-projekt2"]
+	path = IPK2023-projekt2
+	url = git@github.com:nickonegen/VUT-FIT-IPK2023-projekt2.git
+[submodule "IPP2023-projekt"]
+	path = IPP2023-projekt
+	url = git@github.com:nickonegen/VUT-FIT-IPP2023-projekt.git
+[submodule "IVH2023-projekt"]
+	path = IVH2023-projekt
+	url = git@github.com:nickonegen/VUT-FIT-IVH2023-projekt.git
+[submodule "ISJ2023-projekty"]
+	path = ISJ2023-projekty
+	url = git@github.com:nickonegen/VUT-FIT-ISJ2023-projekty.git
+[submodule "ITY2023-projekty"]
+	path = ITY2023-projekty
+	url = git@github.com:nickonegen/VUT-FIT-ITY2023-projekty.git
