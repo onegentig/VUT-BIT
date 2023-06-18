@@ -13,7 +13,7 @@ _Hub-Repozitár väčšiny mojich projektov z bakalárskeho štúdia BIT na FIT 
 </thead>
 <tbody>
   <tr>
-    <td><a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IEL2021-projekt"><s>IEL</s></a></td>
+    <td><a href="https://github.com/nickonegen/VUT-FIT-IEL2021-projekt"><s>IEL</s></a></td>
     <td><a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IUS2021-projekty"><s>IUS</s></a></td>
     <td><a href="https://github.com/nickonegen/sukromne/tree/main/archv/VUT-FIT/IZP2021-projekty"><s>IZP</s></a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-INC2022-projekt">INC</a></td>

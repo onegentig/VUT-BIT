@@ -49,3 +49,6 @@
 [submodule "ITY"]
 	path = ITY
 	url = git@github.com:nickonegen/VUT-FIT-ITY2023-projekty.git
+[submodule "IEL"]
+	path = IEL
+	url = git@github.com:nickonegen/VUT-FIT-IEL2021-projekt.git
