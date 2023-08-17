@@ -1,54 +1,54 @@
 [submodule "INC"]
 	path = INC
-	url = git@github.com:nickonegen/VUT-FIT-INC2022-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-INC2022-projekt.git
 [submodule "IOS1"]
 	path = IOS1
-	url = git@github.com:nickonegen/VUT-FIT-IOS2022-projekt1.git
+	url = git@github.com:onegentig/VUT-FIT-IOS2022-projekt1.git
 [submodule "IOS2"]
 	path = IOS2
-	url = git@github.com:nickonegen/VUT-FIT-IOS2022-projekt2.git
+	url = git@github.com:onegentig/VUT-FIT-IOS2022-projekt2.git
 [submodule "ISU"]
 	path = ISU
-	url = git@github.com:nickonegen/VUT-FIT-ISU2022-cvicenia.git
+	url = git@github.com:onegentig/VUT-FIT-ISU2022-cvicenia.git
 [submodule "IZP2"]
 	path = IZP2
 	url = git@github.com:mightydendas/izp-projekt.git
 [submodule "IAL"]
 	path = IAL
-	url = git@github.com:nickonegen/VUT-FIT-IAL2022-ulohy.git
+	url = git@github.com:onegentig/VUT-FIT-IAL2022-ulohy.git
 [submodule "IFJ"]
 	path = IFJ
-	url = git@github.com:nickonegen/VUT-FIT-IFJ2022-projekt.git
+	url = git@github.com:Termix13/IFJ-projekt.git
 [submodule "INP1"]
 	path = INP1
-	url = git@github.com:nickonegen/VUT-FIT-INP2022-projekt1.git
+	url = git@github.com:onegentig/VUT-FIT-INP2022-projekt1.git
 [submodule "INP2"]
 	path = INP2
-	url = git@github.com:nickonegen/VUT-FIT-INP2022-projekt2.git
+	url = git@github.com:onegentig/VUT-FIT-INP2022-projekt2.git
 [submodule "ISS"]
 	path = ISS
-	url = git@github.com:nickonegen/VUT-FIT-ISS2022-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-ISS2022-projekt.git
 [submodule "IDS"]
 	path = IDS
-	url = git@github.com:nickonegen/VUT-FIT-IDS2023-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-IDS2023-projekt.git
 [submodule "IPK1"]
 	path = IPK1
-	url = git@github.com:nickonegen/VUT-FIT-IPK2023-projekt1.git
+	url = git@github.com:onegentig/VUT-FIT-IPK2023-projekt1.git
 [submodule "IPK2"]
 	path = IPK2
-	url = git@github.com:nickonegen/VUT-FIT-IPK2023-projekt2.git
+	url = git@github.com:onegentig/VUT-FIT-IPK2023-projekt2.git
 [submodule "IPP"]
 	path = IPP
-	url = git@github.com:nickonegen/VUT-FIT-IPP2023-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-IPP2023-projekt.git
 [submodule "IVH"]
 	path = IVH
-	url = git@github.com:nickonegen/VUT-FIT-IVH2023-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-IVH2023-projekt.git
 [submodule "ISJ"]
 	path = ISJ
-	url = git@github.com:nickonegen/VUT-FIT-ISJ2023-projekty.git
+	url = git@github.com:onegentig/VUT-FIT-ISJ2023-projekty.git
 [submodule "ITY"]
 	path = ITY
-	url = git@github.com:nickonegen/VUT-FIT-ITY2023-projekty.git
+	url = git@github.com:onegentig/VUT-FIT-ITY2023-projekty.git
 [submodule "IEL"]
 	path = IEL
-	url = git@github.com:nickonegen/VUT-FIT-IEL2021-projekt.git
+	url = git@github.com:onegentig/VUT-FIT-IEL2021-projekt.git
