@@ -1,8 +1,6 @@
 # Onegen @ VUT BIT
 
-_Hub-Repozitár väčšiny mojich projektov z bakalárskeho štúdia BIT na FIT VUT (2021–dnes)._
-
-⚠️ **Zverejnené pre archívne účely — nekopírujte, nula by Vás mrzela. Za nič také nenesiem žiadnu zodpovednosť!** Všetky odovzdané projekty prechádzajú kontrolou plagiátorstva, pri ktorej sa porovnávajú aj s dávnejšie odovzdanými riešeniami.
+_Hub-Repozitár mojich projektov z bakalárskeho štúdia BIT na FIT VUT (2021–dnes)._
 
 <div align="center"><br /><br />
 <table>
@@ -19,7 +17,7 @@ _Hub-Repozitár väčšiny mojich projektov z bakalárskeho štúdia BIT na FIT 
     <td><a href="https://github.com/nickonegen/VUT-FIT-INC2022-projekt">INC</a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt1">IOS₁</a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-IOS2022-projekt2"><s>IOS₂</s></a></td>
-    <td><a href="https://github.com/nickonegen/VUT-FIT-ISU2022-cvicenia">ISU</a></td>
+    <td><a href="https://github.com/nickonegen/VUT-FIT-ISU2022-cvicenia">ISUᶜᵛ</a></td>
   </tr>
 </tbody>
 </table><br />
@@ -33,7 +31,7 @@ _Hub-Repozitár väčšiny mojich projektov z bakalárskeho štúdia BIT na FIT 
 <tbody>
   <tr>
     <td><a href="https://github.com/nickonegen/VUT-FIT-IAL2022-ulohy">IAL</a></td>
-    <td><a href="https://github.com/nickonegen/VUT-FIT-IFJ2022-projekt/"><s>IFJ</s></a></td>
+    <td><a href="https://github.com/nickonegen/VUT-FIT-IFJ2022-projekt"><s>IFJ</s></a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt1">INP₁</a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-INP2022-projekt2">INP₂</a></td>
     <td><a href="https://github.com/nickonegen/VUT-FIT-ISS2022-projekt">ISS</a></td>
