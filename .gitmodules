@@ -52,3 +52,9 @@
 [submodule "IEL"]
 	path = IEL
 	url = git@github.com:onegentig/VUT-FIT-IEL2021-projekt.git
+[submodule "ISA"]
+	path = ISA
+	url = git@github.com:onegentig/VUT-FIT-ISA2023-projekt.git
+[submodule "ITU"]
+	path = ITU
+	url = git@github.com:onegentig/ITU-projekt.git
