@@ -55,6 +55,3 @@
 [submodule "ISA"]
 	path = ISA
 	url = git@github.com:onegentig/VUT-FIT-ISA2023-projekt.git
-[submodule "ITU"]
-	path = ITU
-	url = git@github.com:onegentig/ITU-projekt.git
