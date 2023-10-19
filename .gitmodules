@@ -61,3 +61,6 @@
 [submodule "ITU/C"]
 	path = ITU/C
 	url = git@github.com:onegentig/VUT-FIT-ITU2023-cvicenia.git
+[submodule "IMP/C"]
+	path = IMP/C
+	url = git@github.com:onegentig/VUT-FIT-IMP2023-cvicenia.git
