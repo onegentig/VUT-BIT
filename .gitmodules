@@ -64,3 +64,6 @@
 [submodule "IMP/C"]
 	path = IMP/C
 	url = git@github.com:onegentig/VUT-FIT-IMP2023-cvicenia.git
+[submodule "IMP/P"]
+	path = IMP/P
+	url = git@github.com:onegentig/VUT-FIT-IMP2023-projekt.git
