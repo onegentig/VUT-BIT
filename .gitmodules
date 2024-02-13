@@ -67,3 +67,9 @@
 [submodule "IMP/P"]
 	path = IMP/P
 	url = git@github.com:onegentig/VUT-FIT-IMP2023-projekt.git
+[submodule "ITW/C"]
+	path = ITW/C
+	url = git@github.com:onegentig/VUT-FIT-ITW2024-cvicenia.git
+[submodule "ITW/P"]
+	path = ITW/P
+	url = git@github.com:onegentig/VUT-FIT-ITW2024-projekty.git

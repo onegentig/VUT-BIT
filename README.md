@@ -38,6 +38,9 @@
 - [`ISJ` Skriptovací jazyky (úlohy)](https://github.com/onegentig/VUT-FIT-ISJ2023-projekty), 45,02 / 40
 - [`IVH` Seminář VHDL (projekt)](https://github.com/onegentig/VUT-FIT-IVH2023-projekt) – animácie na maticovom displeji, 80 / 90
 - <span title="súkromný archív">🔒</span> [`ITY` Typografie a publikování (úlohy)](https://github.com/onegentig/VUT-FIT-ITY2023-projekty), 53,3 / 70
+- <span title="aktívne repo">🟢</span> [`ITS` Testování a dynamická analýza (projekt)](https://github.com/onegentig/VUT-FIT-ITS2024-projekt), ?? / 40
+- <span title="aktívne repo">🟢</span> [`ITW` Tvorba webových stránek (cvičenia)](https://github.com/onegentig/VUT-FIT-ITW2024-cvicenia), ?? / 10
+- <span title="aktívne repo">🟢</span> [`ITW` Tvorba webových stránek (projekty)](https://github.com/onegentig/VUT-FIT-ITW2024-projekty), ?? / 50
 
 <div align="center">
   <br />
